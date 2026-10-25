@@ -20,5 +20,60 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "종합실습관": {
+      "style": "concrete",
+      "wall": "#b7b4ae",
+      "glass": "#3b4650",
+      "frame": "#8e8e8a"
+    },
+    "용당12관": {
+      "style": "brick",
+      "wall": "#7a3f33",
+      "glass": "#33393e",
+      "frame": "#e0e0dc"
+    },
+    "용당11관": {
+      "style": "brick",
+      "wall": "#8a4433",
+      "glass": "#2d3a3e",
+      "frame": "#cfcfca"
+    },
+    "용당9관": {
+      "style": "brick",
+      "wall": "#7e4a3e",
+      "glass": "#3d6a70",
+      "frame": "#d9d9d4"
+    },
+    "용당4관": {
+      "style": "brick",
+      "wall": "#9a4c3a",
+      "glass": "#3a4248",
+      "frame": "#ccccc8"
+    },
+    "광개토관 B동": {
+      "style": "dorm",
+      "wall": "#a5624a",
+      "glass": "#3c4448",
+      "frame": "#ece9e2",
+      "hip": true,
+      "roof": "#4e3a33"
+    },
+    "광개토관 A동": {
+      "style": "dorm",
+      "wall": "#8f4a38",
+      "glass": "#3c4448",
+      "frame": "#e6e3dc",
+      "hip": true,
+      "roof": "#5a4036"
+    },
+    "용당14관": {
+      "style": "brick",
+      "wall": "#8a4a3a",
+      "glass": "#3b6c6c",
+      "frame": "#e0e0dc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
