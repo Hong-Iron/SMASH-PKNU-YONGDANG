@@ -1,0 +1,34 @@
+{
+ "region": "부산 남구 용당동",
+ "nameEn": "Pukyong National University Yongdang Campus",
+ "added": "2026-10-17",
+ "rank": 80,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "TONGMYONG",
+   "campus": "동명대학교",
+   "km": 1.2
+  },
+  {
+   "code": "PKNU",
+   "campus": "국립부경대학교 대연캠퍼스",
+   "km": 2.4
+  },
+  {
+   "code": "KSU",
+   "campus": "경성대학교",
+   "km": 2.8
+  },
+  {
+   "code": "KMOU",
+   "campus": "국립한국해양대학교",
+   "km": 4.4
+  },
+  {
+   "code": "KOSIN",
+   "campus": "고신대학교 영도캠퍼스",
+   "km": 4.8
+  }
+ ]
+}
